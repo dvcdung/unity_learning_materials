@@ -1,4 +1,4 @@
-## GameObject
+<h2>Game Object</h2>
 <details>
   <sumary><h3>Tag</h3></sumary>
   Tags are a way to mark and categorize GameObjects
