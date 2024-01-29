@@ -3,7 +3,7 @@
   <sumary><h3>Tag</h3></sumary>
   Tags are a way to mark and categorize GameObjects
 </details>
-## Components
+<h2>Components</h2>
 <details>
   <summary><h3>Rigid Component</h3></summary>
   
