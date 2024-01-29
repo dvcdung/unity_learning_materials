@@ -1,7 +1,7 @@
 ## GameObject
 ## Components
 <details>
-  <summary>Rigid Component</summary>
+  <summary><h3>Rigid Component</h3></summary>
   
   <details>
     <summary>Force Modes:</summary>
