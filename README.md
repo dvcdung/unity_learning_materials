@@ -1,2 +1,2 @@
 # Force Modes:
-<img src="" alt="forcemodes"/>
+<img src="https://github.com/dvcdung/unity_learning_materials/blob/master/force-modes.png" alt="forcemodes"/>
