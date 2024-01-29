@@ -1,7 +1,11 @@
-<h2>Game Object</h2>
+<h2>GameObject</h2>
 <details>
   <summary><h3>Tag</h3></summary>
-  Tags are a way to mark and categorize GameObjects
+  <ul>
+    <li>Tag là một đánh để đánh dấu và phân loại các GameObject</li>
+    <li>GameObject.FindGameObjectsWithTag()</li>
+    <li>gameObject.CompareTag()</li>
+  </ul>
 </details>
 <h2>Components</h2>
 <details>
