@@ -1,6 +1,6 @@
 <h2>Game Object</h2>
 <details>
-  <sumary><h3>Tag</h3></sumary>
+  <summary><h3>Tag</h3></summary>
   Tags are a way to mark and categorize GameObjects
 </details>
 <h2>Components</h2>
