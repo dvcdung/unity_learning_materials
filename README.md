@@ -16,3 +16,6 @@
     <img src="https://github.com/dvcdung/unity_learning_materials/blob/master/force-modes.png" alt="forcemodes" width="500"/>
   </details>
 </details>
+<details>
+  <summary><h3>Animator</h3></summary>
+</details>
