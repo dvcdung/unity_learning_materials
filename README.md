@@ -18,4 +18,8 @@
 </details>
 <details>
   <summary><h3>Animator</h3></summary>
+  <details>
+    <summary><h3>Animation CLip</h3></summary>
+    
+  </details>
 </details>
