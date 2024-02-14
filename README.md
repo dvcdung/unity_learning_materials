@@ -21,9 +21,9 @@
   <details>
     <summary><h4>Animation Clip</h4></summary>
     <ul >
-      <li>...<li>
-      <li>...<li>
-      <li>...<li>
+      <li>...</li>
+      <li>...</li>
+      <li>...</li>
     </ul>
   </details>
 </details>
