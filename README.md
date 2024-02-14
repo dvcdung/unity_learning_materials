@@ -1,3 +1,14 @@
+<details>
+  <summary><h2>Animation</h2></summary>
+  <details>
+    <summary><h3>Animation Clip</h3></summary>
+    <ul >
+      <li>...</li>
+      <li>...</li>
+      <li>...</li>
+    </ul>
+  </details>
+</details>
 <h2>GameObject</h2>
 <details>
   <summary><h3>Tag</h3></summary>
@@ -16,14 +27,4 @@
     <img src="https://github.com/dvcdung/unity_learning_materials/blob/master/force-modes.png" alt="forcemodes" width="500"/>
   </details>
 </details>
-<details>
-  <summary><h3>Animation</h3></summary>
-  <details>
-    <summary><h4>Animation Clip</h4></summary>
-    <ul >
-      <li>...</li>
-      <li>...</li>
-      <li>...</li>
-    </ul>
-  </details>
-</details>
+
