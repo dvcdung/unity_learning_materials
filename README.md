@@ -12,7 +12,7 @@
   <summary><h3>Rigid Component</h3></summary>
   <details>
     <summary>Force Modes:</summary>
-    <img src="https://github.com/dvcdung/unity_learning_materials/blob/master/force-modes.png" alt="forcemodes" width="500"/>
+    <img src="/images/0001.png" alt="image" width="500"/>
   </details>
 </details>
 <h2>Animation</h2>
@@ -23,4 +23,4 @@
     <li><a href="https://learn.unity.com/tutorial/working-with-animations-and-animation-curves#600c8a28edbc2a3270428112">Reference</a></li>
   </ul>
 </details>
-<img src="/images/0002.png" alt="image"/>
+<img src="/images/0002.png" alt="image" width="500"/>
