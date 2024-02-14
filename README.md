@@ -17,9 +17,13 @@
   </details>
 </details>
 <details>
-  <summary><h3>Animator</h3></summary>
+  <summary><h3>Animation</h3></summary>
   <details>
-    <summary><h4>Animation CLip</h4></summary>
-    
+    <summary><h4>Animation Clip</h4></summary>
+    <ul >
+      <li>...<li>
+      <li>...<li>
+      <li>...<li>
+    </ul>
   </details>
 </details>
