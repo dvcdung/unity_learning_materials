@@ -21,6 +21,6 @@
   <summary><h3>Animation Clip</h3></summary>
   <ul >
     <li></li>
-    <li>[text](https://learn.unity.com/tutorial/working-with-animations-and-animation-curves#600c8a28edbc2a3270428112)</li>
+    <li><a href="https://learn.unity.com/tutorial/working-with-animations-and-animation-curves#600c8a28edbc2a3270428112"></a>Reference</li>
   </ul>
 </details>
