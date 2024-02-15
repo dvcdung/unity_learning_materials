@@ -22,7 +22,8 @@
     <li>Open the window: Window > Animation > Animation</li>
     <li><img src="/images/0002.png" alt="image" width="500"/></li>
     <li>Click on GameObject to display timeline, ... in Animation window</li>
-    <li>Left click on timeline to select a time point</li>
+    <li>Left click on timeline to select a time point. And move the gameObject to create a new keyframe</li>
+    <li>Select the Curves Tab at the bottom of the Animation window for another way to edit animations</li>
     <li><a href="https://learn.unity.com/tutorial/working-with-animations-and-animation-curves#600c8a28edbc2a3270428112">Reference</a></li>
   </ul>
 </details>
