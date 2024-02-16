@@ -30,7 +30,7 @@
 <details>
   <summary><h3>Animator Controller</h3></summary>
   <ul>
-    <li>Within the Animator Controller: <b>States</b> and <b>Sub-State Machines</b> that are linked together via <b>Transitions</b></li>
+    <li>Animator Controller: {<b>States</b> and <b>Sub-State Machines</b> that are linked together via <b>Transitions</b>}</li>
     <li></li>
     <li></li>
   </ul>
