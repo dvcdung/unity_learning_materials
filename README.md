@@ -30,7 +30,9 @@
 <details>
   <summary><h3>Animator Controller</h3></summary>
   <ul>
-    <li>Animator Controller { <b>States</b> and <b>Sub-State Machines</b> that are linked together via <b>Transitions</b> }</li>
+    <li>Animator Controller: <b>States</b>, <b>Sub-State Machines</b>, <b>Transitions</b></li>
+    <li>State <=> Animation Clip</li>
+    <li>Transitions: links between States</li>
     <li><img src="/images/0003.png" alt="image" width="500"/></li>
     <li><a href="https://learn.unity.com/tutorial/animator-controllers-2019-3">Reference</a></li>
   </ul>
