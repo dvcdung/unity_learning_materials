@@ -7,6 +7,7 @@
     <li>gameObject.CompareTag()</li>
   </ul>
 </details>
+//----------------------------------------------------------------
 <h2>Components</h2>
 <details>
   <summary><h3>Rigid Component</h3></summary>
@@ -15,6 +16,16 @@
     <img src="/images/0001.png" alt="image" width="500"/>
   </details>
 </details>
+<details>
+  <summary><h3>Particle System</h3></summary>
+  <ul>
+    <li>A powerful component allows creating and controlling particle effects.</li>
+    <li><img src="/images/0004.png" alt="image" width="500"/></li>
+    <li><a href="https://learn.unity.com/tutorial/particles-and-sound-effects">Reference</a></li>
+    <li><a href="https://learn.unity.com/project/getting-started-with-particle-systems">Learn more *</a></li>
+  </ul>
+</details>
+//----------------------------------------------------------------
 <h2>Animation</h2>
 <details>
   <summary><h3>Animation Clip</h3></summary>
