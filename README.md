@@ -7,7 +7,7 @@
     <li>gameObject.CompareTag()</li>
   </ul>
 </details>
-//----------------------------------------------------------------
+<!-- -------------------------------------------------------------- -->
 <h2>Components</h2>
 <details>
   <summary><h3>Rigid Component</h3></summary>
