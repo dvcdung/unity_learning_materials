@@ -16,7 +16,7 @@
   </details>
 </details>
 <details>
-  <summary><!-- TITLE 2 >----- --> <h3>Particle System</h3></summary>
+  <summary><!-- TITLE 2 >----- --> <h3>Effects > Particle System</h3></summary>
   <ul>
     <li>A powerful component allows creating and controlling particle effects.</li>
     <li><img src="/images/0004.png" alt="image" width="500"/></li>
