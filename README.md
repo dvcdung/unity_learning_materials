@@ -7,6 +7,8 @@
     <li>gameObject.CompareTag()</li>
   </ul>
 </details>
+
+
 <!-- TITLE 1 --> <h2>Components</h2>
 <details>
   <summary><!-- TITLE 2 >----- --> <h3>Rigid Component</h3></summary>
@@ -24,6 +26,16 @@
     <li><a href="https://learn.unity.com/project/getting-started-with-particle-systems">Learn more *</a></li>
   </ul>
 </details>
+<details>
+  <summary><!-- TITLE 2 >-----  --> <h3>Audio > Audio Source</h3></summary>
+  <ul>
+    <li><img src="/images/0006.png" alt="image" width="500"/></li>
+    <li><img src="/images/0005.png" alt="image" width="500"/></li>
+    <li><a href="https://learn.unity.com/tutorial/working-with-audio-components-2019-3">Reference</a></li>
+  </ul>
+</details>
+
+
 <!-- TITLE 1 --> <h2>Animation</h2>
 <details>
   <summary><!-- TITLE 2 >----- --> <h3>Animation Clip</h3></summary>
@@ -44,5 +56,16 @@
     <li>Transitions: links between States</li>
     <li><img src="/images/0003.png" alt="image" width="500"/></li>
     <li><a href="https://learn.unity.com/tutorial/animator-controllers-2019-3">Reference</a></li>
+  </ul>
+</details>
+
+
+<!-- TITLE 1 --> <h2>Audio</h2>
+<details>
+  <summary><!-- TITLE 2 >-----  --> <h3>Audio</h3></summary>
+  <ul>
+    <li></li>
+    <li></li>
+    <li><a href="https://learn.unity.com/project/beginning-audio-in-unity">Reference</a></li>
   </ul>
 </details>
