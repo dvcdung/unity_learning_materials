@@ -75,6 +75,7 @@
   <summary><!-- TITLE 2 >-----  --> <h3>Collision > Physics Material</h3></summary>
   <ul>
     <li>Create folder named "Physics Materials". Create > Physic Material > name it</li>
+    <li>To create friction (ma sát) and bounce (độ nảy)</li>
     <li><img src="/images/0007.png" alt="image" width="500"/></li>
     <li><a href="https://docs.unity3d.com/Manual/class-PhysicMaterial.html">Reference</a></li>
   </ul>
