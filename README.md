@@ -11,7 +11,7 @@
 
 <!-- TITLE 1 --> <h2>Components</h2>
 <details>
-  <summary><!-- TITLE 2 >----- --> <h3>Rigid Component</h3></summary>
+  <summary><!-- TITLE 2 >----- --> <h3>Rigidbody</h3></summary>
   <details>
     <summary>Force Modes:</summary>
     <img src="/images/0001.png" alt="image" width="500"/>
@@ -67,5 +67,15 @@
     <li></li>
     <li></li>
     <li><a href="https://learn.unity.com/project/beginning-audio-in-unity">Reference</a></li>
+  </ul>
+</details>
+
+<!-- TITLE 1 --> <h2>Physics</h2>
+<details>
+  <summary><!-- TITLE 2 >-----  --> <h3>Collision > Physics Material</h3></summary>
+  <ul>
+    <li>Create folder named "Physics Materials". Create > Physic Material > name it</li>
+    <li><img src="/images/0007.png" alt="image" width="500"/></li>
+    <li><a href="https://docs.unity3d.com/Manual/class-PhysicMaterial.html">Reference</a></li>
   </ul>
 </details>
