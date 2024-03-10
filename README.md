@@ -80,3 +80,18 @@
     <li><a href="https://docs.unity3d.com/Manual/class-PhysicMaterial.html">Reference</a></li>
   </ul>
 </details>
+
+<!-- TITLE 1 --> <h2>Build Terrain</h2>
+<details>
+  <summary>Terrain Editor</summary>
+  <ul>
+    <li>Right-click in Hierachy Tab > 3D Object > Terrain</li>
+    <li><img src="/images/0008.png" alt="image" width="500"/></li>
+    <li>Button1: Creating Neighbor Terrains (Ve cac terrains lien ke) </li>
+    <li>* Button2: Sculpting Terrain (Tinh nang dieu khac dia hinh)</li>
+    <li>Button3: Paint Trees</li>
+    <li>Button4: Paint Details (Paints the selected detail prototype onto the terrain - ex: grass, ...)</li>
+    <li>Setting Tool</li>
+    <li><a href="https://learn.unity.com/tutorial/working-with-the-terrain-editor-1">Reference</a></li>
+  </ul>
+</details>
