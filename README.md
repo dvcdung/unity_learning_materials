@@ -58,6 +58,14 @@
     <li><a href="https://learn.unity.com/tutorial/animator-controllers-2019-3">Reference</a></li>
   </ul>
 </details>
+<details>
+  <summary>More</summary>
+  <ul>
+    <li>Animation blending (trộn)</li>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
 
 
 <!-- TITLE 1 --> <h2>Audio</h2>
@@ -95,5 +103,19 @@
     <li><a href="https://learn.unity.com/tutorial/working-with-the-terrain-editor-1">Reference</a></li>
   </ul>
 </details>
+<details>
+  <summary>Note</summary>
+  <ul>
+    <li>LOD: Level of detail</li>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
 
 <!-- TITLE 1 --> <h2>Input System</h2>
+
+<!-- TITLE 1 --> <h2>Optimization techniques</h2>
+<details>
+  <summary>LOD - Level Of Detail</summary>
+  <img src="/images/0009.png" alt="image" width="500"/>
+</details>
