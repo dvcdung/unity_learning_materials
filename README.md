@@ -112,6 +112,16 @@
   </ul>
 </details>
 
+<!-- TITLE 1 --> <h2>Shader</h2>
+<details>
+  <summary>Shader Graph</summary>
+  <ul>
+    <li>Package Manager > Unity Registry > Shader Graph > Install</li>
+    <li>Create Lit Shader Graph > Drag into material</li>
+    <li><a href="https://www.youtube.com/watch?v=DpXPhGeCqus&list=PL7pZIxQeCqI2Dddld7fLkst1yWzdGAK_K">Reference</a></li>
+  </ul>
+</details>
+
 <!-- TITLE 1 --> <h2>Input System</h2>
 
 <!-- TITLE 1 --> <h2>Optimization techniques</h2>
